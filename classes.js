@@ -1,5 +1,13 @@
 // In this assignment, you will be creating a class named "Person" and then create your whole family from that class.
 
+class Person{
+    constructor(attributes){
+        this.Name=attributes.Name
+        this.Age=attributes.Age
+        this.Hobby=attributes.Hobby
+        
+    }
+}
 
 
 // Create "Person" class
